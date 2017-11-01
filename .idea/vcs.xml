@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/sevenrabbits/popnews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appdenoticias" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googlecloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project-tutorial2-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project1_turorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project1_tutorials" vcs="Git" />
+  </component>
+</project>
